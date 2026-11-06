@@ -15,8 +15,6 @@ help approves every connection.
 | Repository | What it is |
 | --- | --- |
 | [HelpBuoy](https://github.com/HelpBuoy/HelpBuoy) | The server, the desk app for techies and the Windows and Linux clients |
-| [helpbuoy-site](https://github.com/HelpBuoy/helpbuoy-site) | The Hugo website at helpbuoy.com, with the guides and downloads |
-| [helpbuoy-admin](https://github.com/HelpBuoy/helpbuoy-admin) | Admin and customer portal for the support business: plans, invoices, requests and verified servers |
 
 To try it, download the server, the desk app and a client from the
 [latest release](https://github.com/HelpBuoy/HelpBuoy/releases/latest), or
